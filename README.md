@@ -1,7 +1,7 @@
 <h1>ETL scripts in Python</h1>
  
 <h2>Description</h2>
-Created Python scripts to read transactional data from existent views, apply data changes and finally store the modified data in new tables.
+Python scripts to read transactional data from existent views, apply data changes and finally store the modified data in new tables.
 <br />
 
 
